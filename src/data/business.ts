@@ -31,5 +31,5 @@ export const navLinks = [
 
 export const socialLinks = [
 { label: "Instagram", href: "#" },
-{ label: "Facebook", href: "#" },
+{ label: "Facebook", href: "https://www.facebook.com/share/1DmL2Dcz73/?mibextid=wwXIfr" },
 { label: "TikTok", href: "#" }];
