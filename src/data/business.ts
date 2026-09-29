@@ -9,8 +9,8 @@ export const business = {
   neighbourhood: "Northrise",
   locationScore: 3.9,
   plusCode: "2JJM+FC Ndola",
-  phoneDisplay: "097 8675897",
-  phoneHref: "tel:+260978675897",
+  phoneDisplay: "095 5885259",
+  phoneHref: "tel:+260955885259",
   directionsHref:
   "https://www.google.com/maps/search/?api=1&query=" +
   encodeURIComponent("2JJM+FC Ndola, Zambia"),
